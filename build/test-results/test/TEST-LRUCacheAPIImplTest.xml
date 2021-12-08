@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LRUCacheAPIImplTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-08T16:01:24" hostname="Jibeshs-MacBook-Pro.fritz.box" time="0.019">
+  <properties/>
+  <testcase name="cacheReadOneUpdate" classname="LRUCacheAPIImplTest" time="0.016"/>
+  <testcase name="cacheItemDeletion" classname="LRUCacheAPIImplTest" time="0.0"/>
+  <testcase name="cacheReadOne" classname="LRUCacheAPIImplTest" time="0.0"/>
+  <testcase name="cacheReadInvalidOne" classname="LRUCacheAPIImplTest" time="0.0"/>
+  <testcase name="cacheCanHandleOnlyFixedNoOfItems" classname="LRUCacheAPIImplTest" time="0.001"/>
+  <testcase name="cacheDataValidity" classname="LRUCacheAPIImplTest" time="0.0"/>
+  <testcase name="cacheHoldsLatestData" classname="LRUCacheAPIImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
