@@ -81,5 +81,5 @@ internal class LRUCacheAPIImplTest {
 }
 
 // email address
-// philippe.riegert@shopify.com
+
 
